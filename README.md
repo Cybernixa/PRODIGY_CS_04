@@ -1,11 +1,5 @@
 # PRODIGY_CS_04
 SIMPLE KEYLOGGER
-The code you've shared is a simple keylogger using the `pynput` library to listen for key presses and record them into a text file (`keylog.txt`). While the code works by logging keystrokes, it's crucial to emphasize ethical considerations, legal implications, and responsible use.
-
-Here’s a detailed explanation for the code along with some important warnings for responsible use:
-
----
-
 ## Keylogger Script using `pynput`
 
 This script implements a basic keylogger using the `pynput` library, which listens for keyboard input and logs the pressed keys into a file. It captures alphanumeric key presses as well as special keys such as the `spacebar`, `enter`, and `esc`. The script is designed to stop recording when the `Esc` key is pressed.
